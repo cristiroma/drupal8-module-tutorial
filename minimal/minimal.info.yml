@@ -1,0 +1,13 @@
+name: A minimal Drupal 8 module
+description: 'As you can see only the info.yml file is required for a module to be recognized'
+package: tutorials
+type: module
+core: 8.x
+version: 8.x-1.0
+
+# module configuration links are now route names
+# configure: action.admin
+
+#dependencies:
+#  - rest
+#  - serialization
