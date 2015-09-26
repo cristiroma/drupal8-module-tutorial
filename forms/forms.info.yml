@@ -1,0 +1,7 @@
+name: Form API demo
+description: 'Demonstrates how to use Form API in Drupal 8'
+package: tutorials
+type: module
+core: 8.x
+version: 8.x-1.0
+configure: forms.admin_settings

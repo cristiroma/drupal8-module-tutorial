@@ -1,0 +1,7 @@
+forms.admin_settings:
+  path: '/admin/config/forms'
+  defaults:
+    _form: '\Drupal\forms\Form\ModuleConfigurationForm'
+    _title: 'Forms settings'
+  requirements:
+    _permission: 'access content'
