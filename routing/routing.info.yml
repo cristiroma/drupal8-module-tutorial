@@ -1,0 +1,6 @@
+name: Routing demo
+description: 'Demonstrates how to define routes in Drupal 8'
+package: tutorials
+type: module
+core: 8.x
+version: 8.x-1.0

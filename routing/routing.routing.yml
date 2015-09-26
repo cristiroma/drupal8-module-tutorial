@@ -1,0 +1,7 @@
+routing.route1:
+    path: '/hello-world'
+    defaults:
+        _controller: '\Drupal\routing\Controller\SimpleRoutingController::helloWorld'
+        _title: 'Hello world simple router'
+    requirements:
+        _permission: 'access content'
