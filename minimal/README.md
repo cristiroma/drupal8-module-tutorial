@@ -1,5 +1,7 @@
-Additional resources
-====================
+Minimal module
+==============
+
+Contains a minimal structure of a Drupal 8 module
 
 * [Let Drupal 8 know about your module with an .info.yml file](https://www.drupal.org/node/2000204)
 * [YAML format](https://en.wikipedia.org/wiki/YAML)
