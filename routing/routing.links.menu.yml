@@ -1,0 +1,7 @@
+routing.link1:
+  title: Hello world
+  description: 'Link to helloWorld route'
+  route_name: 'routing.route1'
+  menu_name: main
+  # parent: devel
+  weight: 20
